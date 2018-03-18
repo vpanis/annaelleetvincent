@@ -67,12 +67,12 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: #4B4B4B;
   font-family: 'Raleway';
 }
 
 #mainNav .navbar-brand {
-  color: #e6a756;
+  color: #D9C248;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -81,7 +81,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #e6a756;
+  color: #D9C248;
 }
 
 @media (min-width: 992px) {
@@ -92,7 +92,7 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #e6a756;
+    color: #D9C248;
   }
 }
 
@@ -202,7 +202,7 @@ p {
 
 .list-hours .list-hours-item.today {
   font-weight: bold;
-  color: #e6a756;
+  color: #D9C248;
 }
 
 @media (min-width: 992px) {
@@ -217,15 +217,15 @@ p {
 }
 
 .footer {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: #4B4B4B;
 }
 
 .text-primary {
-  color: #e6a756 !important;
+  color: #D9C248 !important;
 }
 
 .bg-primary {
-  background-color: #e6a756 !important;
+  background-color: #D9C248 !important;
 }
 
 .btn {
@@ -233,8 +233,8 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
-  border-color: #e6a756;
+  background-color: #D9C248;
+  border-color: #D9C248;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
