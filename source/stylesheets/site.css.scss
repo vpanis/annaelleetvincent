@@ -72,7 +72,7 @@ p {
 }
 
 #mainNav .navbar-brand {
-  color: #D9C248;
+  color: #FECC2F;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -81,7 +81,7 @@ p {
 }
 
 #mainNav .navbar-nav .nav-item.active .nav-link {
-  color: #D9C248;
+  color: #FECC2F;
 }
 
 @media (min-width: 992px) {
@@ -92,7 +92,7 @@ p {
     color: rgba(255, 255, 255, 0.4);
   }
   #mainNav .navbar-nav .nav-item.active .nav-link:hover {
-    color: #D9C248;
+    color: #FECC2F;
   }
 }
 
@@ -137,7 +137,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(225, 200, 45, 0.9);
+  background-color: rgba(254, 204, 47, 0.9);
 }
 
 .cta .cta-inner {
@@ -202,7 +202,7 @@ p {
 
 .list-hours .list-hours-item.today {
   font-weight: bold;
-  color: #D9C248;
+  color: #FECC2F;
 }
 
 @media (min-width: 992px) {
@@ -221,11 +221,11 @@ p {
 }
 
 .text-primary {
-  color: #D9C248 !important;
+  color: #FECC2F !important;
 }
 
 .bg-primary {
-  background-color: #D9C248 !important;
+  background-color: #FECC2F !important;
 }
 
 .btn {
@@ -233,8 +233,8 @@ p {
 }
 
 .btn-primary {
-  background-color: #D9C248;
-  border-color: #D9C248;
+  background-color: #FECC2F;
+  border-color: #FECC2F;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
